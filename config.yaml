@@ -1,0 +1,26 @@
+path: '/home/arief/Desktop/projects/yolo-v8-detection-segmentation-tracking/dataset'
+train: 'images'
+val: 'images'
+
+# Classes
+names:
+  0: dog
+  1: diningtable
+  2: chair
+  3: pottedplant
+  4: aeroplane
+  5: bird
+  6: cat
+  7: person
+  8: bus
+  9: train
+  10: sofa
+  11: bottle
+  12: motorbike
+  13: car
+  14: horse
+  15: tvmonitor
+  16: boat
+  17: bicycle
+  18: sheep
+  19: cow
