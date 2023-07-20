@@ -1,2 +1,4 @@
 dataset/
 VOCtrainval_11-May-2012/
+runs/
+yolov8n.pt

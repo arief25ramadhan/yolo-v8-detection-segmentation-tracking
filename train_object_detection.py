@@ -9,4 +9,4 @@ from ultralytics import YOLO
 model = YOLO("yolov8n.pt")  # load a pretrained model (recommended for training)
 
 # Use the model
-model.train(data="config.yaml", epochs=1, device=0)  # train the model
+model.train(data="config.yaml", epochs=10, device=0)  # train the model
